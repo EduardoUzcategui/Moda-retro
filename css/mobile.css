@@ -25,13 +25,6 @@
   padding-bottom: 60px;
 }
 
-/* #description h2 {
-  padding-bottom: 20px;
-}
-
-.description-row {
-  padding-top: 20px;
-} */
 
 .description-box {
   float: none;
@@ -57,17 +50,6 @@
   width: 100%;
 }
 
-/* Features */
-#features {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-
-.features-box {
-  float: none;
-  width: 100%;
-  padding: 5px;
-}
 
 /* About */
 #about {
