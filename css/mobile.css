@@ -1,0 +1,88 @@
+/* Utility Classes */
+.display-1 {
+  font-size: 50px;
+}
+
+.display-2 {
+  font-size: 40px;
+}
+
+/* Header */
+#main-header {
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#main-header p {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+/* Description */
+#description {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+/* #description h2 {
+  padding-bottom: 20px;
+}
+
+.description-row {
+  padding-top: 20px;
+} */
+
+.description-box {
+  float: none;
+  width: 100%;
+  padding: 5px;
+}
+
+/* Testimonial */
+#testimonial {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#testimonial h4 {
+  padding-bottom: 20px;
+}
+
+#testimonial img {
+  border-radius: 50%;
+}
+
+#testimonial p {
+  width: 100%;
+}
+
+/* Features */
+#features {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.features-box {
+  float: none;
+  width: 100%;
+  padding: 5px;
+}
+
+/* About */
+#about {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.about-image {
+  float: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.about-text {
+  float: none;
+  width: 100%;
+  padding: 20px 10px;
+}
